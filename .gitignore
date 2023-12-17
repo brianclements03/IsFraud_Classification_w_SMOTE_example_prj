@@ -1,3 +1,11 @@
+# My additions
+env
+*.csv
+*.json
+__pycache__
+.DS_Store
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
